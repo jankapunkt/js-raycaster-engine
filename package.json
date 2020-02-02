@@ -9,6 +9,10 @@
   ],
   "author": "Jan Küster <info@jankuester.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jankapunkt/js-raycaster-engine.git"
+  },
   "main": "dist/index",
   "scripts": {
     "lint": "cd ./src && standard",
